@@ -15,6 +15,19 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `npm test`
+![image](https://github.com/Rishahum/Code-Editor/assets/98969301/f698e91d-fd7a-4fda-982d-6753333dc7e2)
+
+By clicking on the copy button we can copy the whole code with a confirmation alert message that code is copied.
+![image](https://github.com/Rishahum/Code-Editor/assets/98969301/f6163582-b7ae-4b71-8bd3-6c5b5c281e9b)
+
+By clicking on lock button we can't write on editor
+![image](https://github.com/Rishahum/Code-Editor/assets/98969301/5b42ebe7-2295-4f39-8b98-cf72344acd8f)
+
+By clicking on the save button, the content get stored in the local storage and display it in below the editor
+![image](https://github.com/Rishahum/Code-Editor/assets/98969301/2fb6d7bc-0947-462a-857b-870ffa82016c)
+
+
+
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
